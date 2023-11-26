@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Enhancing Archives - Deals-Central PwC</title>
+	<atom:link href="//deals-central.pwc.com/tag/enhancing/feed/" rel="self" type="application/rss+xml" />
+	<link>//deals-central.pwc.com/tag/enhancing/</link>
+	<description></description>
+	<lastBuildDate>Sun, 26 Nov 2023 22:08:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Enhancing interconnectedness for audit teams and clients</title>
+		<link>//deals-central.pwc.com/enhancing-interconnectedness-for-audit-teams-and-clients/</link>
+					<comments>//deals-central.pwc.com/enhancing-interconnectedness-for-audit-teams-and-clients/#respond</comments>
+		
+		<dc:creator><![CDATA[pwc]]></dc:creator>
+		<pubDate>Sun, 26 Nov 2023 22:08:40 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Enhancing]]></category>
+		<guid isPermaLink="false">//deals-central.pwc.com/?p=34</guid>
+
+					<description><![CDATA[<p>New digital tools are transforming the way auditors and clients work, with greater collaboration and...</p>
+<p>The post <a href="//deals-central.pwc.com/enhancing-interconnectedness-for-audit-teams-and-clients/">Enhancing interconnectedness for audit teams and clients</a> appeared first on <a href="//deals-central.pwc.com">Deals-Central PwC</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>New digital tools are transforming the way auditors and clients work, with greater collaboration and frictionless workflow heralding a new audit journey.</p>
+<p>The landscape of audit technology has changed beyond all recognition in recent years. With the emergence of AI and machine learning the promises being made by enthusiastic vendors are becoming increasingly bullish. Whether it’s boosting efficiency or enhancing audit quality, tech tools are essential to the modern audit firm.</p>
+<p>“Computed-assisted audit techniques (CAATs) aren’t new,” says PwC’s digital audit leader, Marc Bena. “However, what’s different now is the ease with which people can extract and analyse data and render it all the way through the financial audit in tools like [cloud-based analytics platform] Alteryx, where they can do quite complex modelling and visualisation.”</p>
+<p>Indeed, many firms are training their entire workforces in new data tools. Bena says that PwC has trained 5,000 people on Alteryx to help them with data analysis and visualisation. “That’s been the base technology for all our financial auditors, and my data team now has access to our data lake in order to do the more advanced audit techniques,” he says.</p>
+<p>Over the past five years most large audit firms have been investing billions in technology and training throughout their organisations in data analysis and AI tools, transforming how they operate.</p>
+<p>Making waves<br />
+Audit tech efficiency is no longer just the preserve of large audit firms either. All sizes of audit firms are embarking on a similar journey, embedding new tools into the audit process – to ensure the audit workflow process is quicker and smarter.</p>
+<p>James Hadfield, a partner and Head of Audit at Top 30 firm Menzies, says that AI in particular is beginning to have an impact in audit workflow: “It’s been around in the background for a long time, even since CAATs. But in the last five years it’s really started to get traction and we’re all now seeing it as a necessary part of what we’re doing.”</p>
+<p>Getting clients on board is crucial to improving collaboration. Hadfield says his clients tend to be receptive to process change if his audit teams lead by setting up both sides on the portal, which instantly improves understanding and workflow.</p>
+<p>Hadfield is an enthusiastic user of Inflo – an audit workflow tool set up by two former PwC accountants. “We use it in a few ways. The first is the client portal, which helps us exchange data. Given that most client data is in digital form, it allows us to upload big data sets and what’s great is how organised it is. Auditors can set up requests for what you need, assign responsibilities, put in due dates and track the progress of the job, which is extremely helpful.”</p>
+<p>And since COVID-19, Hadfield says tools that facilitate better collaboration such as Inflo have helped with remote working: “Without the portal you’re reliant on email and Dropbox, where things can get lost or muddled. Being organised is really crucial to a well delivered audit.”</p>
+<p>As Menzies’ audit teams begin to harvest the benefits of improved digital efficiencies, Hadfield says increasingly the focus has switched to improving quality. “The other modules in Inflo are data and analytics led, and you can import complete datasets from the client – so for instance we can import the entire general ledger for the year, giving us every single transaction that’s been posted.</p>
+<p>“And from that, by using defined risk parameters in the software, we can get to individual journal entries that we want to look at,” he explains. “There might be an error or fraud, and whereas previously we’d have an Excel download or a massive, printed journal, trying to shoot into that like a sniper isn’t the same as interrogating every single transaction. So that’s a big thing that analytics lets us do.”</p>
+<p>Interconnected</p>
+<p>James Berridge at Saffery Champness agrees that workflow tools are having a big impact on how his firm delivers its audit services. The firms started using Inflo in the autumn last year.</p>
+<p>In the audit space, one of the things Berridge says he’s keen to assess focuses on how its internal systems can be linked together from a data quality and efficiency standpoint. Once they’re linked, he says it becomes much easier to tie everything together. At that point, he says auditors can then say: “We’re getting a lot of our general ledger information by Inflo so let’s pull that in and have that tied in with our practice management system.”</p>
+<p>Berridge adds: “That will allow us to identify the client ID and how that relates to this general ledger information from this period. We can start to then push through the likes of Power BI and start to visualise the client’s data – and that allows us to pull out the nuances that we want, rather than the information that Inflo thinks is relevant to auditors.”</p>
+<p>The key, then, he says is to reduce data overload – and auditor burnout – which is a big selling point of perhaps the most widely used AI-led audit tool, DataSnipper. Developed as an Excel-hosted intelligent audit platform, it has already been adopted by Big Four firms and smaller firms alike.</p>
+<p>Berridge says DataSnipper’s ability to extract data from a PDF, for instance, can be useful when the client sends data in a less-than-ideal format.</p>
+<p>“But also, it has an automated document-matching feature. So if you know what you’re looking for when you’re doing expenses testing, such as the invoice number, the amount, the date – and hopefully in the big pile of invoices there sits the correct one – DataSnipper will find and report it for you; and it will highlight on the document where it was.</p>
+<p>By speeding up the process documentation, Berridge says clients are brought on board and can collaborate far more effectively. “Now, instead of searching through 100 terribly named documents, you can say: ‘This is my data point, these are the files, I want to match it to bank statements,’ and it’ll match it to that as well. If you click on the cells, because it shows you the right document and the right bit, that’s effectively when you start your work. It’s all pre-documented and you’re basically verifying what it’s found for you. It’s a massive time-saver and really helpful for work flow.”</p>
+<p>Indeed, one of the biggest challenges for auditors is extracting data from clients’ systems. “That’s tough because every system is different and each client has it configured in different ways,” Menzies’s Hadfield says.</p>
+<p>As analytics and other software evolves however, so too does clients’ software. “We’ll get to a point when it’ll be a more seamless process. For me that’ll be the watershed moment because the challenge of getting data information from the clients will be gone and it’ll all be there for you at the click of a button.”</p>
+<p>Greater collaboration<br />
+As collaboration improves and work flows become more frictionless, the ability to apply scepticism will also come to fore, says Tom Allison, associate director at Buzzacott. He says the impact of tools like E-circu, a French-built platform for customer and supplier confirmations and bank confirmations, will eliminate human interference before the data reaches the audit team, and allow more time for holistic judgement.</p>
+<p>“Back in the old days you’d write to the supplier and they would post you the relevant documents. No-one does that any more due to the poor response rate,” he says.</p>
+<p>Today, open banking confirmation tools provide that extra layer of assurance as well as speed and efficiency, which promises to save substantial time in an auditor’s day and eliminate the humdrum side of auditing.</p>
+<p>The post <a href="//deals-central.pwc.com/enhancing-interconnectedness-for-audit-teams-and-clients/">Enhancing interconnectedness for audit teams and clients</a> appeared first on <a href="//deals-central.pwc.com">Deals-Central PwC</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>//deals-central.pwc.com/enhancing-interconnectedness-for-audit-teams-and-clients/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
